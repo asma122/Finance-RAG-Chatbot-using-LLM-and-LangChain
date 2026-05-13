@@ -48,10 +48,14 @@ The system combines:
 # ⚙️ Installation
 1️⃣ Create and Activate Environment: 
 conda create -n myenv python=3.10
+
 conda activate myenv
+
 2️⃣ Install Dependencies: pip install -r requirements.txt
+
 3️⃣ Install Ollama: 
 Download Ollama from: https://ollama.com/download
+
 Then pull the LLaMA2 model: ollama pull llama2
 
 ---
