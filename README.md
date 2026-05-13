@@ -39,7 +39,7 @@ The system combines:
 - Ollama
 - LLaMA2
 - Streamlit
-- Vector Database (Milvus / FAISS)
+- Vector Database (Milvus)
 - NLP Techniques
 - RAG Architecture
 
