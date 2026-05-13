@@ -91,10 +91,10 @@ Project execution video: https://drive.google.com/drive/u/0/folders/1hl_Fe9dbSu1
 
 The chatbot is based on a RAG (Retrieval-Augmented Generation) architecture combining:
 
-Document Retrieval
-Semantic Similarity Search
-Embedding Generation
-Contextual Response Generation
-Financial Data Processing
+Document Retrieval/
+Semantic Similarity Search/
+Embedding Generation/
+Contextual Response Generation/
+Financial Data Processing/
 
 The chatbot only generates responses from retrieved relevant documents to reduce hallucinations and improve reliability.
