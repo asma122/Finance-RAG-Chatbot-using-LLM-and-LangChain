@@ -84,7 +84,7 @@ streamlit run main.py
 ---
 
 🎥 Demo Video
-Project execution video: https://drive.google.com/drive/u/0/my-drive
+Project execution video: https://drive.google.com/drive/u/0/folders/1hl_Fe9dbSu1TFarfQv6wheQS0tPysTBc
 
 ---
 🧠 Methodology
