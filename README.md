@@ -62,14 +62,23 @@ Then pull the LLaMA2 model: ollama pull llama2
 
 # ▶️ Running the Project
 ⚠️ You need to open two terminals.
+
 🖥️ Terminal 1 — Start LLaMA2: 
+
 conda activate myenv
+
 cd src
+
 ollama run llama2
+
 🖥️ Terminal 2 — Run the Application:
+
 conda activate myenv
+
 cd src
+
 python seed_data.py
+
 streamlit run main.py
 
 ---
